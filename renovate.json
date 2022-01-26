@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "config:base",
+    "github>whitesource/log4j-remediations"
+  ]
+}
